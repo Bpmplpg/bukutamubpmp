@@ -1,0 +1,6 @@
+{
+  "name": "Buku Tamu BPMP Lampung",
+  "description": "Sistem Buku Tamu Digital dan Pelayanan Terpadu Balai Penjaminan Mutu Pendidikan Provinsi Lampung.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
